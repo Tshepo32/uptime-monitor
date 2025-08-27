@@ -5,8 +5,8 @@ repo: upptime-monitor # The name of this repository
 sites:
   - name: My Python Bot Service (Render)
     url: https://bott-2nq6.onrender.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: Tetris Game (Render)
+    url: https://tetris-game-tlbf.onrender.com
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
